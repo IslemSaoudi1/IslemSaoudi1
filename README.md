@@ -31,5 +31,3 @@ Data Scientist Student
  <a href="https://www.linkedin.com/in/islem-saoudi-15516717b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 
-### Top Repositories:
-<div width="100%" align="center"><a href="https://github.com/IslemSaoudi1/Devops_project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IslemSaoudi1&repo=Devops_project&title_color=a855f7&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
